@@ -9,4 +9,6 @@ Estudante de Sistema da Informação e maluco por gosta de testa novas ferrament
 
 
 
-<img align="left" alt="Reis Github Stats" src="https://github-readme-stats.vercel.app/api?username=railanderreis&show_icons=true&hide_border=true" />
+<img align="left" alt="Reis Github Stats" src="https://github-readme-stats.vercel.app/api?username=railanderreis&show_icons=true&theme=dracula" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=railanderreis&layout=compact)]
